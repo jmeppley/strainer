@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/jlfgr-1_0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/jmeppley/work/eclipse/Strainer/lib/bytecode.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/jmeppley/work/eclipse/Strainer/lib/biojava-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaligner.jar" sourcepath="/jaligner"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
