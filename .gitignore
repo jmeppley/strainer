@@ -1,4 +1,10 @@
+# vim shadow files
+*.sw[op]
+
+# products of the build process
 *.class
+/build/
+/Strainer-*/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
